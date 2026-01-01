@@ -1,0 +1,19 @@
+# Data
+*.pkl
+*.npy
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Models
+*.h5
+*.keras
+models/*.weights.h5
+
+# System
+.DS_Store
+*.swp
